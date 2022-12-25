@@ -1,0 +1,21 @@
+﻿h1, h2, h3, h4, h5, h6 
+{
+    font-family: "Karma", sans-serif
+}
+
+.w3-bar-block .w3-bar-item 
+{
+    padding: 20px
+}
+
+#Lg {
+    height: 30px;
+}
+
+.PP {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
